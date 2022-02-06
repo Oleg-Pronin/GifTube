@@ -1,4 +1,4 @@
-package oleg.pronin
+package oleg_pronin.pronin
 
 import org.junit.Test
 

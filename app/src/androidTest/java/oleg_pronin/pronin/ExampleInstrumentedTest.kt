@@ -1,4 +1,4 @@
-package oleg.pronin
+package oleg_pronin.pronin
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
