@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GifTube</string>
+    <string name="last">Последние</string>
+    <string name="the_best">Лучшие</string>
+    <string name="hot">Горячие</string>
+    <string name="description">Описание</string>
 </resources>
